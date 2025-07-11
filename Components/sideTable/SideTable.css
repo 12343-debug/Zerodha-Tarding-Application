@@ -1,0 +1,69 @@
+.sidebar-container {
+  width: 29%;
+  background-color: rgb(38, 37, 37);
+  padding: 25px;
+}
+
+.search-bar {
+  border: 1px solid #444;
+  padding: 15px 15px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  color: #fff;
+  font-size: 24px;
+}
+
+.search-icon-container {
+  width: 10px;
+}
+
+.input {
+  margin: 7px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #fff;
+}
+
+.watchlist-container {
+  margin: 18px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.watchlist-container .watchlist-text {
+  color: #fff;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.watchlist-container .group-text {
+  color: rgb(49, 49, 203);
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.button {
+  width: 89px;
+  height: 28px;
+  border: none;
+  background-color: #414141;
+  color: #fff;
+  border: 1px solid #4e4848;
+  margin-right: 18px;
+  cursor: pointer;
+}
+
+.button-btn {
+  width: 72px;
+  background-color: #0e0d0d;
+  color: white;
+  padding: 6px;
+  border: 1px solid #463f3f;
+  height: 22px;
+}

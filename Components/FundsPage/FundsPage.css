@@ -1,0 +1,135 @@
+.funds-container {
+  display: flex;
+  gap: 1px;
+  background-color: #000;
+  padding: 2px 35px;
+  min-height: 90vh;
+}
+
+.funds-table-container {
+  width: 70%;
+  background-color: rgb(38, 37, 37);
+  padding: 15px;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 15px;
+  justify-content: end;
+  align-items: center;
+  margin: 25px 0px;
+}
+
+.instant-transfer {
+  color: #fff;
+  font-size: 12px;
+}
+
+.fund-btn,
+.withdraw-btn {
+  border: none;
+  color: #fff;
+  border-radius: 2px;
+  padding: 8px 15px;
+}
+
+.fund-btn {
+  background-color: rgb(113, 236, 117);
+  cursor: pointer;
+}
+
+.withdraw-btn {
+  background-color: rgb(109, 114, 208);
+  cursor: pointer;
+}
+
+.main-container {
+  display: flex;
+  background-color: #252424;
+  gap: 55px;
+}
+
+.equity-comodity-container {
+  width: 50%;
+}
+
+.equity-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.view-container {
+  display: flex;
+  gap: 15px;
+}
+
+.equity-text {
+  color: #fff;
+  font-size: 16px;
+}
+
+.statement-text {
+  color: #3c2dad;
+  font-size: 14px;
+}
+
+.equity-container {
+  border: 1px solid #444;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 15px;
+  width: 100%;
+  /* height: 92%;
+    height: 68%; */
+}
+
+.margin-main-container {
+  width: 100%;
+  border-bottom: 1px solid #444;
+}
+
+.margin-final-container {
+  width: 100%;
+}
+
+.margin-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0px;
+}
+
+.margin-text {
+  color: #8e8a8a;
+  font-size: 12px;
+  white-space: nowrap;
+  font-weight: bolder;
+}
+
+.values {
+  color: #fff;
+  font-size: 16px;
+  text-align: end;
+}
+
+.value {
+  color: #fff;
+  font-size: 12px;
+}
+.num-values {
+  color: white;
+  font-size: 29px;
+}
+
+.values {
+  font-size: 26px;
+  padding-bottom: 10px;
+}
+
+.react-icon {
+  margin: -3px;
+  margin-right: 2px;
+}
