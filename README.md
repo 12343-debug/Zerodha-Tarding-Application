@@ -4,11 +4,11 @@
 This is the frontend clone of Zerodha platform that replicates the user interface and experience of the popular trading online platform. The project has been built using React.js for laptop users only.
 
 # Features
-User Authentication : Login functionality using JWT token<br/>
-Stock data : Displays up-to data stock information<br/>
-Watchlist Area : To show favourite stocks<br/>
-Portfolia Overview : Users can view their current holdngs, positions, and funds.<br/>
-Visual representaion : Visual representation of data using charts<br/>
+User Authentication: Login functionality using JWT token<br/>
+Stock Data: Displays up-to-date stock information<br/>
+Watchlist Area: To show favourite stocks<br/>
+Portfolio Overview: Users can view their current holdings, positions, and funds<br/>
+Visual Representation: Visual representation of data using charts<br/>
 
 # Technologies Used
 Frontend : React js, CSS3<br/>
